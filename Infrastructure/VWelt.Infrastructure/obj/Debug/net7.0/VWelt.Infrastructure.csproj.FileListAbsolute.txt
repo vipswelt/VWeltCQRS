@@ -1,0 +1,17 @@
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\bin\Debug\net7.0\VWelt.Infrastructure.deps.json
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\bin\Debug\net7.0\VWelt.Infrastructure.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\bin\Debug\net7.0\VWelt.Infrastructure.pdb
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\bin\Debug\net7.0\VWelt.Application.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\bin\Debug\net7.0\VWelt.Domain.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\bin\Debug\net7.0\VWelt.Application.pdb
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\bin\Debug\net7.0\VWelt.Domain.pdb
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\obj\Debug\net7.0\VWelt.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\obj\Debug\net7.0\VWelt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\obj\Debug\net7.0\VWelt.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\obj\Debug\net7.0\VWelt.Infrastructure.AssemblyInfo.cs
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\obj\Debug\net7.0\VWelt.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\obj\Debug\net7.0\VWelt.Infrastructure.csproj.CopyComplete
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\obj\Debug\net7.0\VWelt.Infrastructure.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\obj\Debug\net7.0\refint\VWelt.Infrastructure.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\obj\Debug\net7.0\VWelt.Infrastructure.pdb
+D:\Projects\Mine\VWeltCQRSMediatR\Infrastructure\VWelt.Infrastructure\obj\Debug\net7.0\ref\VWelt.Infrastructure.dll

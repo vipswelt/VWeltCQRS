@@ -1,0 +1,11 @@
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\bin\Debug\net7.0\VWelt.Domain.deps.json
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\bin\Debug\net7.0\VWelt.Domain.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\bin\Debug\net7.0\VWelt.Domain.pdb
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\obj\Debug\net7.0\VWelt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\obj\Debug\net7.0\VWelt.Domain.AssemblyInfoInputs.cache
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\obj\Debug\net7.0\VWelt.Domain.AssemblyInfo.cs
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\obj\Debug\net7.0\VWelt.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\obj\Debug\net7.0\VWelt.Domain.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\obj\Debug\net7.0\refint\VWelt.Domain.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\obj\Debug\net7.0\VWelt.Domain.pdb
+D:\Projects\Mine\VWeltCQRSMediatR\Domain\VWelt.Domain\obj\Debug\net7.0\ref\VWelt.Domain.dll

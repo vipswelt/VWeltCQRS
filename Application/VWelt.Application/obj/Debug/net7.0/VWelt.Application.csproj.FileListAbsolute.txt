@@ -1,0 +1,15 @@
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\bin\Debug\net7.0\VWelt.Application.deps.json
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\bin\Debug\net7.0\VWelt.Application.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\bin\Debug\net7.0\VWelt.Application.pdb
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\bin\Debug\net7.0\VWelt.Domain.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\bin\Debug\net7.0\VWelt.Domain.pdb
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\obj\Debug\net7.0\VWelt.Application.csproj.AssemblyReference.cache
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\obj\Debug\net7.0\VWelt.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\obj\Debug\net7.0\VWelt.Application.AssemblyInfoInputs.cache
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\obj\Debug\net7.0\VWelt.Application.AssemblyInfo.cs
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\obj\Debug\net7.0\VWelt.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\obj\Debug\net7.0\VWelt.Application.csproj.CopyComplete
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\obj\Debug\net7.0\VWelt.Application.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\obj\Debug\net7.0\refint\VWelt.Application.dll
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\obj\Debug\net7.0\VWelt.Application.pdb
+D:\Projects\Mine\VWeltCQRSMediatR\Application\VWelt.Application\obj\Debug\net7.0\ref\VWelt.Application.dll
